@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: darkgray;
+}
+
+header,main{
+    border: 2px solid black;
+    padding: 1% ;
+    margin: 1%;
+    border-radius: 5px;
+    background-color: lightcoral;
+}
+
+section{
+    background-color: greenyellow;
+    padding: 2%;
+    margin: 2%;
+    border: 2px solid black;
+    border-radius: 5px;
+ 
+}
+
+ul{
+    background-color: lightseagreen;
+}
+
+p{
+    background-color: violet;
+}
+
+
+h1{
+    background-color: blue;
+}
+
+.max-50porc{
+    max-width: 50%;
+    max-height: 50%;
+}
+
